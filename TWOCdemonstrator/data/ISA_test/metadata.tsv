@@ -1,0 +1,124 @@
+SAMPLE-ID	FILENAME_fwd	FILENAME_rev	SUBJECT-ID	RUN	GENDER	AGE (Y)	HEIGHT (CM)	WEIGHT (KG)	BMI	DIETARY_SUPPLEMENTS	PROBIOTICS	DIET	DONATATION	SUFFIX	RANKSTAT_GENDER	DESCRIPTION
+sample028	sample028_S001_L001_R1_001.fastq.gz	sample028_S001_L001_R2_001.fastq.gz	FT-10038	run_6	M	33	180,34	80,38	24,73	Vitamin B12 and D	N/A	Vegetarian	AF	NA		
+sample031	sample031_S001_L001_R1_001.fastq.gz	sample031_S001_L001_R2_001.fastq.gz	FT-10038	run_6	M	33	180,34	80,38	24,73	Vitamin B12 and D	N/A	Vegetarian	AS	NA		
+sample118	sample118_S001_L001_R1_001.fastq.gz	sample118_S001_L001_R2_001.fastq.gz	FT-10038	run_10	M	33	182,9	72,35	24,73	Vitamin B12 and D	N/A	Vegetarian	BI	NA		
+sample121	sample121_S001_L001_R1_001.fastq.gz	sample121_S001_L001_R2_001.fastq.gz	FT-10042	run_10	M	23	182,9	72,35	21,51	N/A	Yakult probiotic drink	N/A	BH	NA		
+sample126	sample126_S001_L001_R1_001.fastq.gz	sample126_S001_L001_R2_001.fastq.gz	FT-10048	run_10	M	36	182,9	72,35	22,2	N/A	N/A	N/A	AM	NA		
+sample128	sample128_S001_L001_R1_001.fastq.gz	sample128_S001_L001_R2_001.fastq.gz	FT-10052	run_10	M	32	182,9	72,35	23,38	Protein shake supplements	N/A	N/A	BH	NA		
+sample130	sample130_S001_L001_R1_001.fastq.gz	sample130_S001_L001_R2_001.fastq.gz	FT-10054	run_10	M	21	182,9	72,35	20,39	N/A	N/A	Avoids processed foods	BJ	G2		
+sample041	sample041_S001_L001_R1_001.fastq.gz	sample041_S001_L001_R2_001.fastq.gz	FT-10058	run_3	M	24	180,34	80,38	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	AJ	NA		
+sample043	sample043_S001_L001_R1_001.fastq.gz	sample043_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	189	79,29	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	AZ	NA		
+sample044	sample044_S001_L001_R1_001.fastq.gz	sample044_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	191	85,27	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BA	NA		
+sample045	sample045_S001_L001_R1_001.fastq.gz	sample045_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	180,34	66,32	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BB	NA		
+sample046	sample046_S001_L001_R1_001.fastq.gz	sample046_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	176,53	76,02	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BC	NA		
+sample047	sample047_S001_L001_R1_001.fastq.gz	sample047_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	176,53	76,02	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BD	NA		
+sample048	sample048_S001_L001_R1_001.fastq.gz	sample048_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	176,53	76,02	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BE	NA		
+sample049	sample049_S001_L001_R1_001.fastq.gz	sample049_S001_L001_R2_001.fastq.gz	FT-10058	run_4	M	24	176,53	76,02	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	BF	NA		
+sample133	sample133_S001_L001_R1_001.fastq.gz	sample133_S001_L001_R2_001.fastq.gz	FT-10058	run_10	M	24	182,9	72,35	24,4	Fortified Whey isolate 100g daily 	N/A	N/A	AJ	NA		
+sample050	sample050_S001_L001_R1_001.fastq.gz	sample050_S001_L001_R2_001.fastq.gz	FT-10059	run_3	M	22	176,53	76,02	22,5	N/A	N/A	N/A	BG	NA		
+sample134	sample134_S001_L001_R1_001.fastq.gz	sample134_S001_L001_R2_001.fastq.gz	FT-10059	run_10	M	22	182,9	72,35	22,5	N/A	N/A	N/A	BG	NA		
+sample136	sample136_S001_L001_R1_001.fastq.gz	sample136_S001_L001_R2_001.fastq.gz	FT-10062	run_10	M	25	181,6	61,87	23,71	Whey protein shake, Equate- One's daily men's multi vitamin 	N/A	N/A	AH	NA		
+sample051	sample051_S001_L001_R1_001.fastq.gz	sample051_S001_L001_R2_001.fastq.gz	FT-10064	run_3	M	32	176,53	76,02	21,16	N/A	N/A	N/A	BH	NA		
+sample138	sample138_S001_L001_R1_001.fastq.gz	sample138_S001_L001_R2_001.fastq.gz	FT-10064	run_10	M	32	181,6	61,87	21,16	N/A	N/A	N/A	BH	NA		
+sample139	sample139_S001_L001_R1_001.fastq.gz	sample139_S001_L001_R2_001.fastq.gz	FT-10065	run_10	M	26	181,6	61,87	28,73	N/A	N/A	N/A	AK	G1		
+sample141	sample141_S001_L001_R1_001.fastq.gz	sample141_S001_L001_R2_001.fastq.gz	FT-10067	run_10	M	2	181,6	61,87	27,11	Protein shake supplements	N/A	Avoids candy, and snack foods	BH	NA		
+sample145	sample145_S001_L001_R1_001.fastq.gz	sample145_S001_L001_R2_001.fastq.gz	FT-10077	run_10	M	26	181,6	61,87	23,18	One-a-days for men 3x weekly 	N/A	N/A	BK	V03		
+sample052	sample052_S001_L001_R1_001.fastq.gz	sample052_S001_L001_R2_001.fastq.gz	FT-10078	run_2	F	27	176,53	76,02	22	Multivitamins	N/A	N/A	AG	NA		
+sample053	sample053_S001_L001_R1_001.fastq.gz	sample053_S001_L001_R2_001.fastq.gz	FT-10078	run_2	F	27	176,53	76,02	22	Multivitamins	N/A	N/A	AH	NA		
+sample146	sample146_S001_L001_R1_001.fastq.gz	sample146_S001_L001_R2_001.fastq.gz	FT-10078	run_10	F	27	181,6	61,87	22	Multivitamins	N/A	N/A	CL	V03		
+sample054	sample054_S001_L001_R1_001.fastq.gz	sample054_S001_L001_R2_001.fastq.gz	FT-10079	run_2	M	28	176,53	76,02	20,74	Multivitamins	N/A	Avoids soda	AJ	NA		
+sample147	sample147_S001_L001_R1_001.fastq.gz	sample147_S001_L001_R2_001.fastq.gz	FT-10079	run_10	M	28	181,6	71,21	20,74	Multivitamins	N/A	Avoids soda	CO	G4		
+sample055	sample055_S001_L001_R1_001.fastq.gz	sample055_S001_L001_R2_001.fastq.gz	FT-10080	run_3	F	32	176,53	76,02	25,82	Vitamin D	N/A	N/A	BI	NA		
+sample098	sample098_S001_L001_R1_001.fastq.gz	sample098_S001_L001_R2_001.fastq.gz	FT-10080	run_7	F	32	172,5	57,61	25,82	Vitamin D	N/A	N/A	CG	NA		
+sample148	sample148_S001_L001_R1_001.fastq.gz	sample148_S001_L001_R2_001.fastq.gz	FT-10080	run_10	F	32	178,4	81,56	25,82	Vitamin D	N/A	N/A	BK	1		
+sample149	sample149_S001_L001_R1_001.fastq.gz	sample149_S001_L001_R2_001.fastq.gz	FT-10081	run_10	M	35	178,4	81,56	22,53	N/A	N/A	N/A	CS	V01		
+sample150	sample150_S001_L001_R1_001.fastq.gz	sample150_S001_L001_R2_001.fastq.gz	FT-10082	run_10	M	29	163,2	57,42	23,77	N/A	N/A	N/A	BG	1		
+sample151	sample151_S001_L001_R1_001.fastq.gz	sample151_S001_L001_R2_001.fastq.gz	FT-10083	run_10	M	21	163,2	57,42	24,76	Protein shake supplements	N/A	N/A	CT	G2		
+sample083	sample083_S001_L001_R1_001.fastq.gz	sample083_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BS	NA		
+sample085	sample085_S001_L001_R1_001.fastq.gz	sample085_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BU	NA		
+sample086	sample086_S001_L001_R1_001.fastq.gz	sample086_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BV	NA		
+sample087	sample087_S001_L001_R1_001.fastq.gz	sample087_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BW	NA		
+sample088	sample088_S001_L001_R1_001.fastq.gz	sample088_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BX	NA		
+sample089	sample089_S001_L001_R1_001.fastq.gz	sample089_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BY	NA		
+sample090	sample090_S001_L001_R1_001.fastq.gz	sample090_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	180,5	73,03	22,53	N/A	N/A	Vegetarian	BZ	NA		
+sample091	sample091_S001_L001_R1_001.fastq.gz	sample091_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	188,5	83,46	22,53	N/A	N/A	Vegetarian	CA	NA		
+sample092	sample092_S001_L001_R1_001.fastq.gz	sample092_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	188,5	83,46	22,53	N/A	N/A	Vegetarian	CB	NA		
+sample093	sample093_S001_L001_R1_001.fastq.gz	sample093_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	188,5	83,46	22,53	N/A	N/A	Vegetarian	CC	NA		
+sample094	sample094_S001_L001_R1_001.fastq.gz	sample094_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	172	75,75	22,53	N/A	N/A	Vegetarian	CD	NA		
+sample095	sample095_S001_L001_R1_001.fastq.gz	sample095_S001_L001_R2_001.fastq.gz	FT-10086	run_8	F	45	172	75,75	22,53	N/A	N/A	Vegetarian	CE	NA		
+sample153	sample153_S001_L001_R1_001.fastq.gz	sample153_S001_L001_R2_001.fastq.gz	FT-10086	run_10	F	45	172,7	71,67	22,53	N/A	N/A	Vegetarian	BH	G1		
+sample056	sample056_S001_L001_R1_001.fastq.gz	sample056_S001_L001_R2_001.fastq.gz	FT-10087	run_2	M	21	166	61,96	23,5	Multivitamins	N/A	avoids sugar	BH	NA		
+sample057	sample057_S001_L001_R1_001.fastq.gz	sample057_S001_L001_R2_001.fastq.gz	FT-10087	run_3	M	21	166	61,96	23,5	Multivitamins	N/A	avoids sugar	BJ	NA		
+sample154	sample154_S001_L001_R1_001.fastq.gz	sample154_S001_L001_R2_001.fastq.gz	FT-10087	run_10	M	21	172,7	71,67	23,5	Multivitamins	N/A	avoids sugar	BH	G3		
+sample058	sample058_S001_L001_R1_001.fastq.gz	sample058_S001_L001_R2_001.fastq.gz	FT-10088	run_3	M	23	175	72,57	25,62	N/A	N/A	N/A	AR	NA		
+sample155	sample155_S001_L001_R1_001.fastq.gz	sample155_S001_L001_R2_001.fastq.gz	FT-10088	run_10	M	23	165,7	71,67	25,62	N/A	N/A	N/A	CS	G3		
+sample157	sample157_S001_L001_R1_001.fastq.gz	sample157_S001_L001_R2_001.fastq.gz	FT-10090	run_10	M	25	165,7	71,67	25,78	Vitamin D, Fish Oil 3x week 	N/A	N/A	CT	G1		
+sample060	sample060_S001_L001_R1_001.fastq.gz	sample060_S001_L001_R2_001.fastq.gz	FT-10093	run_3	F	29	167	58,97	19,36	N/A	N/A	N/A	AA	NA		
+sample158	sample158_S001_L001_R1_001.fastq.gz	sample158_S001_L001_R2_001.fastq.gz	FT-10093	run_10	F	29	172,7	79,47	19,36	N/A	N/A	N/A	CU	G1		
+sample061	sample061_S001_L001_R1_001.fastq.gz	sample061_S001_L001_R2_001.fastq.gz	FT-10094	run_2	F	43	167	58,97	21,45	Fem dophilus	N/A	N/A	BI	REP1		
+sample062	sample062_S001_L001_R1_001.fastq.gz	sample062_S001_L001_R2_001.fastq.gz	FT-10094	run_2	F	43	180,34	93,44	21,45	Fem dophilus	N/A	N/A	BI	REP2		
+sample082	sample082_S001_L001_R1_001.fastq.gz	sample082_S001_L001_R2_001.fastq.gz	FT-10094	run_7	F	43	180,5	73,03	21,45	Fem dophilus	N/A	N/A	BR	NA		
+sample159	sample159_S001_L001_R1_001.fastq.gz	sample159_S001_L001_R2_001.fastq.gz	FT-10094	run_10	F	43	172,7	79,47	21,45	Fem dophilus	N/A	N/A	CV	G2		
+sample160	sample160_S001_L001_R1_001.fastq.gz	sample160_S001_L001_R2_001.fastq.gz	FT-10095	run_10	M	34	181	79,29	24,58	N/A	N/A	N/A	CW	G1		
+sample064	sample064_S001_L001_R1_001.fastq.gz	sample064_S001_L001_R2_001.fastq.gz	FT-10110	run_3	M	26	170,5	78,83	28,77	N/A	N/A	N/A	BI	G1		
+sample065	sample065_S001_L001_R1_001.fastq.gz	sample065_S001_L001_R2_001.fastq.gz	FT-10120	run_2	M	24	189	82,83	21,61	N/A	N/A	plant based vegan and gluten free	BL	NA		
+sample066	sample066_S001_L001_R1_001.fastq.gz	sample066_S001_L001_R2_001.fastq.gz	FT-10120	run_2	M	24	168	62,14	21,61	N/A	N/A	plant based vegan and gluten free	BM	NA		
+sample067	sample067_S001_L001_R1_001.fastq.gz	sample067_S001_L001_R2_001.fastq.gz	FT-10120	run_2	M	24	168	62,14	21,61	N/A	N/A	plant based vegan and gluten free	BN	NA		
+sample068	sample068_S001_L001_R1_001.fastq.gz	sample068_S001_L001_R2_001.fastq.gz	FT-10120	run_2	M	24	168	62,14	21,61	N/A	N/A	plant based vegan and gluten free	BB	NA		
+sample100	sample100_S001_L001_R1_001.fastq.gz	sample100_S001_L001_R2_001.fastq.gz	FT-10120	run_2	M	24	163,3	57,15	21,61	N/A	N/A	plant based vegan and gluten free	BB	PA		
+sample069	sample069_S001_L001_R1_001.fastq.gz	sample069_S001_L001_R2_001.fastq.gz	FT-10122	run_2	M	22	170,5	60,33	18,77	Multivitamins	probiotic/kombucha	no specific diet, avoids fast food	BO	NA		
+sample071	sample071_S001_L001_R1_001.fastq.gz	sample071_S001_L001_R2_001.fastq.gz	FT-10122	run_2	M	22	165	70,31	18,77	Multivitamins	probiotic/kombucha	no specific diet, avoids fast food	BQ	NA		
+sample103	sample103_S001_L001_R1_001.fastq.gz	sample103_S001_L001_R2_001.fastq.gz	FT-10122	run_2	M	22	163,3	57,15	18,77	Multivitamins	probiotic/kombucha	no specific diet, avoids fast food	BQ	PA		
+sample104	sample104_S001_L001_R1_001.fastq.gz	sample104_S001_L001_R2_001.fastq.gz	FT-10122	run_2	M	22	187,96	85,82	18,77	Multivitamins	probiotic/kombucha	no specific diet, avoids fast food	BQ	PB		
+sample105	sample105_S001_L001_R1_001.fastq.gz	sample105_S001_L001_R2_001.fastq.gz	FT-10122	run_2	M	22	174	87,09	18,77	Multivitamins	probiotic/kombucha	no specific diet, avoids fast food	BQ	PC		
+sample097	sample097_S001_L001_R1_001.fastq.gz	sample097_S001_L001_R2_001.fastq.gz	FT-10123	run_7	M	35	172,5	57,61	21,59	N/A	fermented food/kombucha	pescatarian and kosher	CF	NA		
+sample072	sample072_S001_L001_R1_001.fastq.gz	sample072_S001_L001_R2_001.fastq.gz	FT-10131	run_2	M	21	165	70,31	25,64	Multivitamins	N/A	lacto-ovo vegetarian	BI	REP1		
+sample073	sample073_S001_L001_R1_001.fastq.gz	sample073_S001_L001_R2_001.fastq.gz	FT-10131	run_2	M	21	165	70,31	25,64	Multivitamins	N/A	lacto-ovo vegetarian	BI	REP2		
+sample074	sample074_S001_L001_R1_001.fastq.gz	sample074_S001_L001_R2_001.fastq.gz	FT-10133	run_2	F	22	181	73,84	21,55	N/A	N/A	N/A	BI	REP1		
+sample075	sample075_S001_L001_R1_001.fastq.gz	sample075_S001_L001_R2_001.fastq.gz	FT-10133	run_2	F	22	183	79,56	21,55	N/A	N/A	N/A	BI	REP2		
+sample076	sample076_S001_L001_R1_001.fastq.gz	sample076_S001_L001_R2_001.fastq.gz	FT-10140	run_2	M	25	188	87,54	24,04	N/A	N/A	N/A	BI	REP1		
+sample077	sample077_S001_L001_R1_001.fastq.gz	sample077_S001_L001_R2_001.fastq.gz	FT-10140	run_2	M	25	180,5	73,03	24,04	N/A	N/A	N/A	BI	REP2		
+sample078	sample078_S001_L001_R1_001.fastq.gz	sample078_S001_L001_R2_001.fastq.gz	FT-10142	run_2	F	26	180,5	73,03	19,67	Zinc	Kombucha and probiotic gummies	Mostly vegetarian	BI	REP1		
+sample080	sample080_S001_L001_R1_001.fastq.gz	sample080_S001_L001_R2_001.fastq.gz	FT-10145	run_2	M	35	180,5	73,03	26,66	N/A	N/A	N/A	BI	REP1		
+sample081	sample081_S001_L001_R1_001.fastq.gz	sample081_S001_L001_R2_001.fastq.gz	FT-10145	run_2	M	35	180,5	73,03	26,66	N/A	N/A	N/A	BI	REP2		
+sample096	sample096_S001_L001_R1_001.fastq.gz	sample096_S001_L001_R2_001.fastq.gz	FT-10164	run_7	M	34	174,5	78,47	24,21	D3 2000 IU/day and multivitamins	N/A	N/A	BV	NA		
+sample169	sample169_S001_L001_R1_001.fastq.gz	sample169_S001_L001_R2_001.fastq.gz	FT-10324	run_11	M	22	179,07	72,85	23,41	N/A	N/A	N/A	BI	NA		
+sample170	sample170_S001_L001_R1_001.fastq.gz	sample170_S001_L001_R2_001.fastq.gz	FT-10324	run_11	M	22	179,07	72,85	23,41	N/A	N/A	N/A	CO	NA		
+sample195	sample195_S001_L001_R1_001.fastq.gz	sample195_S001_L001_R2_001.fastq.gz	FT-10335	run_11	F	23	196,22	81,74	18,04	Daily multivitamins	N/A	No red meat	CQ	NA		
+sample196	sample196_S001_L001_R1_001.fastq.gz	sample196_S001_L001_R2_001.fastq.gz	FT-10335	run_11	F	23	196,22	81,74	18,04	Daily multivitamins	N/A	No red meat	BI	NA		
+sample165	sample165_S001_L001_R1_001.fastq.gz	sample165_S001_L001_R2_001.fastq.gz	FT-10398	run_11	F	30	167,01	53,43	19,15	N/A	N/A	N/A	AE	NA		
+sample166	sample166_S001_L001_R1_001.fastq.gz	sample166_S001_L001_R2_001.fastq.gz	FT-10398	run_11	F	30	167,01	53,43	19,15	N/A	N/A	N/A	BI	NA		
+sample197	sample197_S001_L001_R1_001.fastq.gz	sample197_S001_L001_R2_001.fastq.gz	FT-10420	run_11	F	29	175,26	52,53	27,01	N/A	N/A	N/A	BI	NA		
+sample198	sample198_S001_L001_R1_001.fastq.gz	sample198_S001_L001_R2_001.fastq.gz	FT-10420	run_11	F	29	175,26	52,53	27,01	N/A	N/A	N/A	BG	NA		
+sample199	sample199_S001_L001_R1_001.fastq.gz	sample199_S001_L001_R2_001.fastq.gz	FT-10439	run_11	M	26	171,96	78	22,7	Fish oil, Multivitamins 	N/A	N/A	CS	NA		
+sample200	sample200_S001_L001_R1_001.fastq.gz	sample200_S001_L001_R2_001.fastq.gz	FT-10439	run_11	M	26	171,96	78	22,7	Fish oil, Multivitamins 	N/A	N/A	BI	NA		
+sample177	sample177_S001_L001_R1_001.fastq.gz	sample177_S001_L001_R2_001.fastq.gz	FT-10449	run_11	M	25	169,42	62,6	23,96	N/A	N/A	N/A	BI	NA		
+sample178	sample178_S001_L001_R1_001.fastq.gz	sample178_S001_L001_R2_001.fastq.gz	FT-10449	run_11	M	25	169,42	62,6	23,96	N/A	N/A	N/A	CL	NA		
+sample193	sample193_S001_L001_R1_001.fastq.gz	sample193_S001_L001_R2_001.fastq.gz	FT-10527	run_11	M	34	175,51	70,13	24	Zinc, Vitamin D, Multi Vitamins- Daily 	N/A	N/A	BI	NA		
+sample194	sample194_S001_L001_R1_001.fastq.gz	sample194_S001_L001_R2_001.fastq.gz	FT-10527	run_11	M	34	175,51	70,13	24	Zinc, Vitamin D, Multi Vitamins- Daily 	N/A	N/A	CN	NA		
+sample163	sample163_S001_L001_R1_001.fastq.gz	sample163_S001_L001_R2_001.fastq.gz	FT-10620	run_11	F	35	162,81	47,76	20,69	Nature made daily 	N/A	N/A	BI	NA		
+sample164	sample164_S001_L001_R1_001.fastq.gz	sample164_S001_L001_R2_001.fastq.gz	FT-10620	run_11	F	35	162,81	47,76	20,69	Nature made daily 	N/A	N/A	CI	NA		
+sample171	sample171_S001_L001_R1_001.fastq.gz	sample171_S001_L001_R2_001.fastq.gz	FT-10629	run_11	F	25	186,69	83,46	21,81	N/A	N/A	N/A	BI	NA		
+sample172	sample172_S001_L001_R1_001.fastq.gz	sample172_S001_L001_R2_001.fastq.gz	FT-10629	run_11	F	25	186,69	83,46	21,81	N/A	N/A	N/A	CL	NA		
+sample167	sample167_S001_L001_R1_001.fastq.gz	sample167_S001_L001_R2_001.fastq.gz	FT-10668	run_11	M	27	170,18	78,29	20,68	Multivitamin-daily	N/A	N/A	BI	NA		
+sample168	sample168_S001_L001_R1_001.fastq.gz	sample168_S001_L001_R2_001.fastq.gz	FT-10668	run_11	M	27	170,18	78,29	20,68	Multivitamin-daily	N/A	N/A	BK	NA		
+sample185	sample185_S001_L001_R1_001.fastq.gz	sample185_S001_L001_R2_001.fastq.gz	FT-10727	run_11	M	36	173,36	78,97	21,41	Vitamin D 	N/A	N/A	BI	NA		
+sample186	sample186_S001_L001_R1_001.fastq.gz	sample186_S001_L001_R2_001.fastq.gz	FT-10727	run_11	M	36	173,36	78,97	21,41	Vitamin D 	N/A	N/A	CL	NA		
+sample179	sample179_S001_L001_R1_001.fastq.gz	sample179_S001_L001_R2_001.fastq.gz	FT-10728	run_11	M	30	186,69	72,12	27,55	N/A	N/A	N/A	BI	NA		
+sample180	sample180_S001_L001_R1_001.fastq.gz	sample180_S001_L001_R2_001.fastq.gz	FT-10728	run_11	M	30	186,69	72,12	27,55	N/A	N/A	N/A	AJ	NA		
+sample161	sample161_S001_L001_R1_001.fastq.gz	sample161_S001_L001_R2_001.fastq.gz	FT-10752	run_11	M	32	192,02	86,27	26,27	N/A	N/A	N/A	BI	NA		
+sample162	sample162_S001_L001_R1_001.fastq.gz	sample162_S001_L001_R2_001.fastq.gz	FT-10752	run_11	M	32	192,02	86,27	26,27	N/A	N/A	N/A	CI	NA		
+sample181	sample181_S001_L001_R1_001.fastq.gz	sample181_S001_L001_R2_001.fastq.gz	FT-10785	run_11	M	20	180,85	70,03	22,36	N/A	N/A	N/A	BI	NA		
+sample182	sample182_S001_L001_R1_001.fastq.gz	sample182_S001_L001_R2_001.fastq.gz	FT-10785	run_11	M	20	180,85	70,03	22,36	N/A	N/A	N/A	CQ	NA		
+sample191	sample191_S001_L001_R1_001.fastq.gz	sample191_S001_L001_R2_001.fastq.gz	FT-10847	run_11	M	29	181,61	77,84	30,07	N/A	N/A	N/A	BI	NA		
+sample192	sample192_S001_L001_R1_001.fastq.gz	sample192_S001_L001_R2_001.fastq.gz	FT-10847	run_11	M	29	181,61	77,84	30,07	N/A	N/A	N/A	BG	NA		
+sample173	sample173_S001_L001_R1_001.fastq.gz	sample173_S001_L001_R2_001.fastq.gz	FT-10874	run_11	M	26	181,86	79,38	23,59	N/A	N/A	N/A	CI	NA		
+sample174	sample174_S001_L001_R1_001.fastq.gz	sample174_S001_L001_R2_001.fastq.gz	FT-10874	run_11	M	26	181,86	79,38	23,59	N/A	N/A	N/A	BI	NA		
+sample175	sample175_S001_L001_R1_001.fastq.gz	sample175_S001_L001_R2_001.fastq.gz	FT-10908	run_11	M	33	168,28	58,65	22,76	N/A	N/A	N/A	BI	NA		
+sample176	sample176_S001_L001_R1_001.fastq.gz	sample176_S001_L001_R2_001.fastq.gz	FT-10908	run_11	M	33	168,28	58,65	22,76	N/A	N/A	N/A	CX	NA		
+sample183	sample183_S001_L001_R1_001.fastq.gz	sample183_S001_L001_R2_001.fastq.gz	FT-10911	run_11	M	24	177,8	87,14	21,22	N/A	N/A	N/A	CI	NA		
+sample184	sample184_S001_L001_R1_001.fastq.gz	sample184_S001_L001_R2_001.fastq.gz	FT-10911	run_11	M	24	177,8	87,14	21,22	N/A	N/A	N/A	BI	NA		
+sample187	sample187_S001_L001_R1_001.fastq.gz	sample187_S001_L001_R2_001.fastq.gz	FT-10959	run_11	M	35	188,21	79,15	17,08	N/A	N/A	N/A	BI	NA		
+sample188	sample188_S001_L001_R1_001.fastq.gz	sample188_S001_L001_R2_001.fastq.gz	FT-10959	run_11	M	35	188,21	79,15	17,08	N/A	N/A	N/A	AI	NA		
+sample189	sample189_S001_L001_R1_001.fastq.gz	sample189_S001_L001_R2_001.fastq.gz	FT-11094	run_11	F	19	173,36	90,4	26,37	N/A	N/A	N/A	BI	NA		
+sample190	sample190_S001_L001_R1_001.fastq.gz	sample190_S001_L001_R2_001.fastq.gz	FT-11094	run_11	F	19	173,36	90,4	26,37	N/A	N/A	N/A	BK	NA		
