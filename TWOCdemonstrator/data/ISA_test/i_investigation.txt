@@ -21,3 +21,71 @@ INVESTIGATION CONTACTS
 Investigation Person Last Name	Olesen
 Investigation Person First Name	Scott
 Investigation Person Mid Initials	W.
+Investigation Person Email	solesen@openbiome.org
+Investigation Person Phone	
+Investigation Person Fax	
+Investigation Person Address	https://openbiome.org
+Investigation Person Affiliation	OpenBiome, 2067 Massachusetts Ave, Cambridge, MA, 02140, USA
+Investigation Person Roles	project management role
+Investigation Person Roles Term Accession Number	http://purl.obolibrary.org/obo/CRO_0000065
+Investigation Person Roles Term Source REF	CRO - Contributor Role Ontology
+STUDY
+Study Identifier	https://doi.org/10.1186/s13104-021-05520-z
+Study Title	16S rRNA sequencing of samples from universal stool bank donors.
+Study Description	Universal stool banks provide stool to physicians for use in treating recurrent Clostridioides difficile infection via fecal microbiota transplantation. Stool donors providing the material are rigorously screened for diseases and disorders with a potential microbiome etiology, and they are likely healthier than the controls in most microbiome datasets. 16S rRNA sequencing was performed on samples from a selection of stool donors at a large stool bank, OpenBiome, to characterize their gut microbial community and to compare samples across different timepoints and sequencing runs.
+Study Submission Date	
+Study Public Release Date	2021-03-23
+Study File Name	s_study.txt
+STUDY DESIGN DESCRIPTORS
+Study Design Type	Multi-omics study
+Study Design Type Term Accession Number	http://purl.obolibrary.org/obo/PRIDE_0000461
+Study Design Type Term Source REF	PRIDE Controlled Vocabulary
+STUDY PUBLICATIONS
+Study PubMed ID	33757553
+Study Publication DOI	https://doi.org/10.1186/s13104-021-05520-z
+Study Publication Author List	Marina Santiago, Scott W. Olesen
+Study Publication Title	16S rRNA sequencing of samples from universal stool bank donors
+Study Publication Status	indexed in PubMed
+Study Publication Status Term Accession Number	
+Study Publication Status Term Source REF	
+STUDY FACTORS
+Study Factor Name
+Study Factor Type
+Study Factor Type Term Accession Number
+Study Factor Type Term Source REF
+STUDY ASSAYS
+Study Assay File Name	a_assay_metataxonomics.txt	a_assay_metataxonomics.txt
+Study Assay Measurement Type	microbiome sequencing assay	microbiome sequencing assay
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040	http://purl.obolibrary.org/obo/GECKO_0000040
+Study Assay Measurement Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology	GECKO - Genomics Cohorts Knowledge Ontology
+Study Assay Technology Type	microbiome sequencing assay	microbiome sequencing assay
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040	http://purl.obolibrary.org/obo/GECKO_0000040
+Study Assay Technology Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology	GECKO - Genomics Cohorts Knowledge Ontology
+Study Assay Technology Platform		
+STUDY PROTOCOLS
+Study Protocol Name	material sampling process	Data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
+Study Protocol Type	material sampling process	data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
+Study Protocol Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000744	http://purl.obolibrary.org/obo/OBI_0200000	http://purl.obolibrary.org/obo/NCIT_C17003	http://purl.obolibrary.org/obo/OBI_0001968	http://purl.obolibrary.org/obo/OBI_0002601	http://purl.obolibrary.org/obo/NCIT_C15311 
+Study Protocol Type Term Source REF	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition
+Study Protocol Description	A specimen gathering process with the objective to obtain a specimen that is representative of the input material entity	A planned process that produces output data from input data.		Operational Taxonomic Unit matrix is a data item, organized as a table, where organismal taxonomic units, computed by sequence analysis and genetic distance calculation, are counted in a set of biological or environmental samples. The table is used to appraise biodiversity of a population or community of living organism.	Sequence data in which an identifier subsequence has been used to categorize each reads by source.	Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits.
+Study Protocol URI						
+Study Protocol Version						
+Study Protocol Parameters Name	Metadata;16s RNA sequence data;low-input metagenomic next-generation sequencing		PCR primers			
+Study Protocol Parameters Name Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C52095;http://purl.obolibrary.org/obo/NGBO_6000204 ;http://purl.obolibrary.org/obo/COVOC_0010015		http://edamontology.org/data_1240 			
+Study Protocol Parameters Name Term Source REF	NCI Thesaurus OBO Edition;Next generation biobanking ontology (NGBO).;CoVoc Coronavirus Vocabulary		EDAM - EMBRACE Data and Methods			
+Study Protocol Components Name						
+Study Protocol Components Type						
+Study Protocol Components Type Term Accession Number						
+Study Protocol Components Type Term Source REF						
+STUDY CONTACTS
+Study Person Last Name	Olesen	Santiago
+Study Person First Name	Scott	Marina
+Study Person Mid Initials	W.	
+Study Person Email		
+Study Person Phone		
+Study Person Fax		
+Study Person Address		
+Study Person Affiliation	OpenBiome, 2067 Massachusetts Ave, Cambridge, MA, 02140, USA	OpenBiome, 2067 Massachusetts Ave, Cambridge, MA, 02140, USA
+Study Person Roles	author role	author role
+Study Person Roles Term Accession Number	http://purl.obolibrary.org/obo/CRO_0000001	http://purl.obolibrary.org/obo/CRO_0000001
+Study Person Roles Term Source REF	CRO - Contributor Role Ontology	CRO - Contributor Role Ontology
