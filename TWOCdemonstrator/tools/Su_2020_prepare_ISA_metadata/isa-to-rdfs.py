@@ -46,11 +46,11 @@ def create_rdf_graph(investigation):
 
 def re_base_uri():
     g = Graph()
-    g.load(r'/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/isa.ttl', format='turtle')
+    g.load(r'/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.ttl', format='turtle')
 
     # Define the old and new base URIs
-    old_base_uri = '/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test'
-    new_base_uri = '/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/isa.ttl'
+    old_base_uri = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test'
+    new_base_uri = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.ttl'
 
     # Iterate through the triples and update the base URI
     for s, p, o in g:
@@ -62,18 +62,18 @@ def re_base_uri():
             g.add((s, p, URIRef(str(o).replace(old_base_uri, new_base_uri))))
 
     # Save the updated RDF file
-    g.serialize(destination='/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/isa_new.ttl', format='turtle')
+    g.serialize(destination='/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa_new.ttl', format='turtle')
     return
 
 def main(file):
     investigation = load_isa(file)
     graph = create_rdf_graph(investigation)
-    graph.serialize(destination='/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/isa-14.ttl', format='turtle')
+    graph.serialize(destination='/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa-14.ttl', format='turtle')
     #re_base_uri()
     return
 
 # main
 if __name__ == '__main__':
-    isajson_file = '/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/isa.json'
-    isa_tab_file = '/home/christelvh/x-omics/TWOCdemonstrator/data/ISA_test/i_investigation.txt'
+    # isajson_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.json'
+    isa_tab_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/i_investigation.txt'
     main(isa_tab_file)

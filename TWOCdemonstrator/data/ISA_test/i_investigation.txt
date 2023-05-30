@@ -54,14 +54,14 @@ Study Factor Type
 Study Factor Type Term Accession Number
 Study Factor Type Term Source REF
 STUDY ASSAYS
-Study Assay File Name	a_assay_metataxonomics.txt	a_assay_metataxonomics.txt
-Study Assay Measurement Type	microbiome sequencing assay	microbiome sequencing assay
-Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040	http://purl.obolibrary.org/obo/GECKO_0000040
-Study Assay Measurement Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology	GECKO - Genomics Cohorts Knowledge Ontology
-Study Assay Technology Type	microbiome sequencing assay	microbiome sequencing assay
-Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040	http://purl.obolibrary.org/obo/GECKO_0000040
-Study Assay Technology Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology	GECKO - Genomics Cohorts Knowledge Ontology
-Study Assay Technology Platform		
+Study Assay File Name
+Study Assay Measurement Type
+Study Assay Measurement Type Term Accession Number
+Study Assay Measurement Type Term Source REF
+Study Assay Technology Type
+Study Assay Technology Type Term Accession Number
+Study Assay Technology Type Term Source REF
+Study Assay Technology Platform
 STUDY PROTOCOLS
 Study Protocol Name	material sampling process	Data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
 Study Protocol Type	material sampling process	data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
