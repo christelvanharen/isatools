@@ -74,6 +74,6 @@ def main(file):
 
 # main
 if __name__ == '__main__':
-    # isajson_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.json'
+    isajson_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.json'
     isa_tab_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/i_investigation.txt'
     main(isa_tab_file)
