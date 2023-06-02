@@ -54,29 +54,29 @@ Study Factor Type
 Study Factor Type Term Accession Number
 Study Factor Type Term Source REF
 STUDY ASSAYS
-Study Assay File Name
-Study Assay Measurement Type
-Study Assay Measurement Type Term Accession Number
-Study Assay Measurement Type Term Source REF
-Study Assay Technology Type
-Study Assay Technology Type Term Accession Number
-Study Assay Technology Type Term Source REF
-Study Assay Technology Platform
+Study Assay File Name	a_assay_metataxonomics.txt
+Study Assay Measurement Type	microbiome sequencing assay
+Study Assay Measurement Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040
+Study Assay Measurement Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology
+Study Assay Technology Type	microbiome sequencing assay
+Study Assay Technology Type Term Accession Number	http://purl.obolibrary.org/obo/GECKO_0000040
+Study Assay Technology Type Term Source REF	GECKO - Genomics Cohorts Knowledge Ontology
+Study Assay Technology Platform	
 STUDY PROTOCOLS
-Study Protocol Name	material sampling process	Data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
-Study Protocol Type	material sampling process	data transformation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
-Study Protocol Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000744	http://purl.obolibrary.org/obo/OBI_0200000	http://purl.obolibrary.org/obo/NCIT_C17003	http://purl.obolibrary.org/obo/OBI_0001968	http://purl.obolibrary.org/obo/OBI_0002601	http://purl.obolibrary.org/obo/NCIT_C15311 
-Study Protocol Type Term Source REF	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition
-Study Protocol Description	A specimen gathering process with the objective to obtain a specimen that is representative of the input material entity	A planned process that produces output data from input data.		Operational Taxonomic Unit matrix is a data item, organized as a table, where organismal taxonomic units, computed by sequence analysis and genetic distance calculation, are counted in a set of biological or environmental samples. The table is used to appraise biodiversity of a population or community of living organism.	Sequence data in which an identifier subsequence has been used to categorize each reads by source.	Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits.
-Study Protocol URI						
-Study Protocol Version						
-Study Protocol Parameters Name	Metadata;16s RNA sequence data;low-input metagenomic next-generation sequencing		PCR primers			
-Study Protocol Parameters Name Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C52095;http://purl.obolibrary.org/obo/NGBO_6000204 ;http://purl.obolibrary.org/obo/COVOC_0010015		http://edamontology.org/data_1240 			
-Study Protocol Parameters Name Term Source REF	NCI Thesaurus OBO Edition;Next generation biobanking ontology (NGBO).;CoVoc Coronavirus Vocabulary		EDAM - EMBRACE Data and Methods			
-Study Protocol Components Name						
-Study Protocol Components Type						
-Study Protocol Components Type Term Accession Number						
-Study Protocol Components Type Term Source REF						
+Study Protocol Name	material sampling process	Data transformation	feature annotation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
+Study Protocol Type	material sampling process	data transformation	Annotation	Polymerase Chain Reaction	operational taxonomic unit matrix	demultiplexed sequence data	Quality Control
+Study Protocol Type Term Accession Number	http://purl.obolibrary.org/obo/OBI_0000744	http://purl.obolibrary.org/obo/OBI_0200000	http://edamontology.org/operation_0226	http://purl.obolibrary.org/obo/NCIT_C17003	http://purl.obolibrary.org/obo/OBI_0001968	http://purl.obolibrary.org/obo/OBI_0002601	http://purl.obolibrary.org/obo/NCIT_C15311 
+Study Protocol Type Term Source REF	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	EDAM - EMBRACE Data and Methods	NCI Thesaurus OBO Edition	OBI - Ontology for Biomedical Investigations	OBI - Ontology for Biomedical Investigations	NCI Thesaurus OBO Edition
+Study Protocol Description	A specimen gathering process with the objective to obtain a specimen that is representative of the input material entity	A planned process that produces output data from input data.			Operational Taxonomic Unit matrix is a data item, organized as a table, where organismal taxonomic units, computed by sequence analysis and genetic distance calculation, are counted in a set of biological or environmental samples. The table is used to appraise biodiversity of a population or community of living organism.	Sequence data in which an identifier subsequence has been used to categorize each reads by source.	Set of measurements and inspections taken to verify that performance of equipment and procedures remains within specified limits.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name	Metadata;16s RNA sequence data;low-input metagenomic next-generation sequencing			PCR primers			
+Study Protocol Parameters Name Term Accession Number	http://purl.obolibrary.org/obo/NCIT_C52095;http://purl.obolibrary.org/obo/NGBO_6000204 ;http://purl.obolibrary.org/obo/COVOC_0010015			http://edamontology.org/data_1240 			
+Study Protocol Parameters Name Term Source REF	NCI Thesaurus OBO Edition;Next generation biobanking ontology (NGBO).;CoVoc Coronavirus Vocabulary			EDAM - EMBRACE Data and Methods			
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
 STUDY CONTACTS
 Study Person Last Name	Olesen	Santiago
 Study Person First Name	Scott	Marina
