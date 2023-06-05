@@ -49,7 +49,7 @@ def re_base_uri():
     g.load(r'/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.ttl', format='turtle')
 
     # Define the old and new base URIs
-    old_base_uri = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test'
+    old_base_uri = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/tools/Su_2020_prepare_ISA_metadata'
     new_base_uri = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.ttl'
 
     # Iterate through the triples and update the base URI
@@ -77,3 +77,4 @@ if __name__ == '__main__':
     isajson_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/isa.json'
     isa_tab_file = '/Users/christelvanharen/Documents/StageRadboud/isatools/TWOCdemonstrator/data/ISA_test/i_investigation.txt'
     main(isa_tab_file)
+
