@@ -42,8 +42,8 @@ def subset_omics_data(df, **kwargs):
     :param sample_list: List object with sample names (strings)
     :rtype: pandas.DataFrame
     """
-    if 'feature_list' in kwargs:
-        df = df[df.index.isin(kwargs['feature_list'])]
+    if 'features_list' in kwargs:
+        df = df[df.index.isin(kwargs['features_list'])]
     if 'sample_list' in kwargs:
         df = df.loc[:,kwargs['sample_list']]
     
