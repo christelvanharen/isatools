@@ -46,10 +46,10 @@ if __name__ == '__main__':
     # converted to strings and saved to a file, errors occurs here
 
     q2 = """
-        select *
-            where { SERVICE <https://fdp.cmbi.umcn.nl/blazegraph/sparql>{
-                ?s ?p ?o .}
-            } LIMIT 1000 """  
+            select * where { 
+	        ?s ?p ?o .
+                } limit 100 
+        """  
     # q2 is used to generte a file with 1000 triples of all the data in the
     # fdp triplestore
     fname = 'test_result.txt'
