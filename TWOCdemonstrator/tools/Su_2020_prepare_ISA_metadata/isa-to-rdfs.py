@@ -1,3 +1,12 @@
+""" 
+Provided by X-omics
+Adjusted by Christel van Haren
+Last modification made on 27/6/2023
+
+This Python script uses the ISA-tab files and the JSON files to rewrite it into a Turtle RDF format.
+Only the pathways were adjusted.
+"""
+
 # import statements
 from os import path
 import json
